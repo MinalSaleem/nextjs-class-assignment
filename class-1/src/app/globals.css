@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  color: aqua;
+  text-align: center;
+  background-color: black;
+  font-family: cursive;
+}
+
+body {
+  background-color: #fff;
+}
