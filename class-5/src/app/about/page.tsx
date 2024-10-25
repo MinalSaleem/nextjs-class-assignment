@@ -11,7 +11,7 @@ function About() {
           <h2 className='text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-red-500 text-5xl font-bold'>
             About Me</h2><br/>
 
-          <p className='text-purple-400'>I'm deeply passionate about technology, with a focus on AI and web development. I love building websites using HTML, CSS, TypeScript, and JavaScript. Currently, I am learning Next.js to make my projects more interactive and engaging. Problem-solving excites me, and I enjoy crafting websites that are easy to use and visually appealing.</p>
+          <p className='text-purple-400'>I am deeply passionate about technology, with a focus on AI and web development. I love building websites using HTML, CSS, TypeScript, and JavaScript. Currently, I am learning Next.js to make my projects more interactive and engaging. Problem-solving excites me, and I enjoy crafting websites that are easy to use and visually appealing.</p>
         </div>
 
         <div className='w-full flex justify-center'>
